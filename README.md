@@ -1,4 +1,4 @@
 # new-demo
 This is my first repo.
 <br>
-author - Tanmay Ratnawat
+author - Tanmay Ratnawat ( Nit allahbad)
